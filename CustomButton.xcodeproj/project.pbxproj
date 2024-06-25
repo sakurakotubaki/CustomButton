@@ -11,6 +11,9 @@
 		C36828B12C2B719200474FC8 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36828B02C2B719200474FC8 /* ContentView.swift */; };
 		C36828B32C2B719300474FC8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C36828B22C2B719300474FC8 /* Assets.xcassets */; };
 		C36828B62C2B719300474FC8 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C36828B52C2B719300474FC8 /* Preview Assets.xcassets */; };
+		C36828BD2C2B721800474FC8 /* BookmarkButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36828BC2C2B721800474FC8 /* BookmarkButton.swift */; };
+		C36828BF2C2B748B00474FC8 /* BookMarkIconButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36828BE2C2B748B00474FC8 /* BookMarkIconButton.swift */; };
+		C36828C12C2B768200474FC8 /* TextLabelButton.swift in Sources */ = {isa = PBXBuildFile; fileRef = C36828C02C2B768200474FC8 /* TextLabelButton.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -19,6 +22,9 @@
 		C36828B02C2B719200474FC8 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 		C36828B22C2B719300474FC8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C36828B52C2B719300474FC8 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
+		C36828BC2C2B721800474FC8 /* BookmarkButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookmarkButton.swift; sourceTree = "<group>"; };
+		C36828BE2C2B748B00474FC8 /* BookMarkIconButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BookMarkIconButton.swift; sourceTree = "<group>"; };
+		C36828C02C2B768200474FC8 /* TextLabelButton.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TextLabelButton.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -53,6 +59,9 @@
 			children = (
 				C36828AE2C2B719200474FC8 /* CustomButtonApp.swift */,
 				C36828B02C2B719200474FC8 /* ContentView.swift */,
+				C36828BC2C2B721800474FC8 /* BookmarkButton.swift */,
+				C36828BE2C2B748B00474FC8 /* BookMarkIconButton.swift */,
+				C36828C02C2B768200474FC8 /* TextLabelButton.swift */,
 				C36828B22C2B719300474FC8 /* Assets.xcassets */,
 				C36828B42C2B719300474FC8 /* Preview Content */,
 			);
@@ -138,7 +147,10 @@
 			buildActionMask = 2147483647;
 			files = (
 				C36828B12C2B719200474FC8 /* ContentView.swift in Sources */,
+				C36828C12C2B768200474FC8 /* TextLabelButton.swift in Sources */,
 				C36828AF2C2B719200474FC8 /* CustomButtonApp.swift in Sources */,
+				C36828BF2C2B748B00474FC8 /* BookMarkIconButton.swift in Sources */,
+				C36828BD2C2B721800474FC8 /* BookmarkButton.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};

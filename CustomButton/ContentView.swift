@@ -1,10 +1,3 @@
-//
-//  ContentView.swift
-//  CustomButton
-//
-//  Created by Jboy422 on 2024/06/26.
-//
-
 import SwiftUI
 
 struct ContentView: View {
